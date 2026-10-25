@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+# Configure SITE_URL during the production build to generate sitemap.xml.
